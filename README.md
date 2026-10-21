@@ -1,8 +1,8 @@
 # Mega Man Complete Works English patches
 
-## Mega Man 1 — English v0.8
+## Mega Man 1 — English v0.9
 
-[Download the cumulative v0.8 patch ZIP](Mega%20Man%201%20Complete%20Works%20-%20English%20v0.8%20Patch.zip)
+[Download the cumulative v0.9 patch ZIP](Mega%20Man%201%20Complete%20Works%20-%20English%20v0.9%20Patch.zip)
 
 The ZIP contains the BPS patch, consolidated README, and verification report. It does not contain a game image or BIOS.
 
