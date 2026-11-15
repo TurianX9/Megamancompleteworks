@@ -121,17 +121,6 @@ Mega Man 5
 179397b0ace88fb803c87d6e21323ed0fc419df170d03af1adfc23f6b4a2d56e
 
 Mega Man 6
-6526675fd0350e01693f7482494190c9398d7b30fc378adacacd5e74e050d60a
-
-NEVER APPLY IT TO AN ALREADY-PATCHED IMAGE.
-
-VERIFICATION SCOPE
-
-This is a feature summary, not a claim of exhaustive hardware certification.
-Recorded project checks include emulator-rendered Original/Navi menus, populated
-inventories, bonus menus and the story endings for 4-6. Some sequence, inventory
-and unlock checks used RAM assists. Patch reproduction and disc-sector integrity
-checks are recorded in the per-game verification data. Full uninterrupted
-playthroughs and physical PlayStation/PocketStation operation are not certified.
+c2bf2e028e17b466dbc626d4b700db942d7954f4082df3054213748e9ee438c4
 
 
